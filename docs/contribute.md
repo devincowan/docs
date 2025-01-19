@@ -2,7 +2,9 @@
 title: Contribute
 date: 2023-12-19T15:10:42.604Z
 ---
-# Contribute!
+# Contribute LOOK IT WORKS IT L
+
+* this is what I did
 
 ![](site/garbage_truck.png "GARBAGE")
 
